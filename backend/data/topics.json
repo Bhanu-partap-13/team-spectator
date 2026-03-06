@@ -1,0 +1,78 @@
+{
+  "topic_of_day": {
+    "id": "tod-001",
+    "title": "Should AI be granted legal personhood?",
+    "category": "technology",
+    "description": "Debate whether artificial intelligence systems should have legal rights and responsibilities similar to corporations or individuals.",
+    "is_topic_of_day": true,
+    "is_trending": true
+  },
+  "trending": [
+    {
+      "id": "tr-001",
+      "title": "Is globalization more beneficial or harmful to developing nations?",
+      "category": "economics",
+      "description": "Examine the impact of globalization on economic growth, cultural identity, and sovereignty of developing countries.",
+      "is_trending": true
+    },
+    {
+      "id": "tr-002",
+      "title": "Should the United Nations Security Council be reformed?",
+      "category": "geopolitics",
+      "description": "Discuss whether the current UNSC structure with five permanent members and veto power is still relevant.",
+      "is_trending": true
+    },
+    {
+      "id": "tr-003",
+      "title": "Was the British Empire a net positive or negative for its colonies?",
+      "category": "history",
+      "description": "Analyze the long-term impact of British colonialism on infrastructure, governance, culture, and economy.",
+      "is_trending": true
+    },
+    {
+      "id": "tr-004",
+      "title": "Is English linguistic dominance a form of cultural imperialism?",
+      "category": "english",
+      "description": "Debate whether the global spread of English undermines linguistic diversity and local cultures.",
+      "is_trending": true
+    },
+    {
+      "id": "tr-005",
+      "title": "Should cryptocurrency replace traditional fiat currencies?",
+      "category": "economics",
+      "description": "Examine the viability, risks, and benefits of decentralized digital currencies replacing government-backed money.",
+      "is_trending": true
+    },
+    {
+      "id": "tr-006",
+      "title": "Is nuclear energy the best solution to climate change?",
+      "category": "geopolitics",
+      "description": "Weigh the benefits of nuclear power against its risks in the context of the global energy crisis.",
+      "is_trending": true
+    },
+    {
+      "id": "tr-007",
+      "title": "Did the Treaty of Versailles cause World War II?",
+      "category": "history",
+      "description": "Analyze whether the punitive terms of the Treaty of Versailles directly led to the rise of fascism and WWII.",
+      "is_trending": true
+    },
+    {
+      "id": "tr-008",
+      "title": "Should universal basic income be implemented globally?",
+      "category": "economics",
+      "description": "Debate the economic feasibility and social impact of providing unconditional income to all citizens.",
+      "is_trending": true
+    }
+  ],
+  "categories": [
+    "english",
+    "geopolitics",
+    "economics",
+    "history",
+    "technology",
+    "philosophy",
+    "science",
+    "general"
+  ]
+}

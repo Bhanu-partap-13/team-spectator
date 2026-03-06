@@ -1,0 +1,51 @@
+#  Python 
+backend/venv/
+backend/.venv/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+#  Node / Next.js 
+frontend/node_modules/
+frontend/.next/
+frontend/.next-dist/
+frontend/.next-build/
+frontend/out/
+frontend/.turbo/
+
+#  Environment / Secrets 
+.env
+.env.local
+.env.development
+.env.production
+.env.staging
+backend/.env
+frontend/.env
+*.env
+
+#  Virtual envs 
+.venv/
+venv/
+env/
+
+#  OS 
+.DS_Store
+Thumbs.db
+desktop.ini
+
+#  IDE 
+.vscode/settings.json
+.idea/
+*.suo
+*.user
+
+#  Logs 
+*.log
+npm-debug.log*
